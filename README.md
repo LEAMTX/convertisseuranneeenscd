@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/code-python-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/code-javascript-yellow?logo=javascript&logoColor=black)
 
 # 📆 Années Bissextiles – Projet HTML / JavaScript
 
