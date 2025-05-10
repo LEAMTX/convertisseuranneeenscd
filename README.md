@@ -10,7 +10,7 @@ L'utilisateur peut saisir une année via un bouton, et le résultat s'affiche dy
 
 Voici une capture d'écran du fonctionnement :
 
-![Aperçu du projet](./projetpython/tableauanneejs.png)
+![Aperçu du projet](./projetjs/tableauanneejs.png)
 
 ---
 
